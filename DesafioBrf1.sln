@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaFatorial", "SomaDigitosFatorial\SomaFatorial.csproj", "{29A07233-8016-4CB9-BE94-10B0D381540B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSomaFatorial", "UnitTestSomaFatorial\UnitTestSomaFatorial.csproj", "{13D972F7-083F-4A2F-BA7D-7CE6EFB3BBB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A07233-8016-4CB9-BE94-10B0D381540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A07233-8016-4CB9-BE94-10B0D381540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A07233-8016-4CB9-BE94-10B0D381540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A07233-8016-4CB9-BE94-10B0D381540B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D972F7-083F-4A2F-BA7D-7CE6EFB3BBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D972F7-083F-4A2F-BA7D-7CE6EFB3BBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D972F7-083F-4A2F-BA7D-7CE6EFB3BBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D972F7-083F-4A2F-BA7D-7CE6EFB3BBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
